@@ -218,4 +218,4 @@ os4
 
 ## Thanks for listening
 
-Talk and code here
+Talk and code [here](https://github.com/frankpopham/rdtalk)
