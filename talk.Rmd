@@ -2,7 +2,9 @@
 title: "Regression Discontinuity"
 author: "Frank Popham"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: ioslides_presentation
+output:
+ ioslides_presentation:
+  widescreen: true
 ---
 
 ```{r setup, include=FALSE}
