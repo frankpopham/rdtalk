@@ -198,7 +198,7 @@ os4
 
 -   Bandwidth is running score band either side of cut-point, wider gives more cases but may increase bias.
 
--   [Further reading](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2019_CUP.pdf) and [here](A%20Practical%20Introduction%20to%20Regression%20Discontinuity%20Designs:%20Foundations.)
+-   [Further reading](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2019_CUP.pdf) and [here](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf)
 
 ## [Example](https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-01536-7.pdf)
 
