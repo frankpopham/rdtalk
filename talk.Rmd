@@ -114,6 +114,8 @@ ggplot(aes(x=running,  y=gs)) +
 
 -   Thistlethwaite DL, Campbell DT. Regression-discontinuity analysis: an alternative to the ex post facto experiment. [J Educ Psychol. 1960;51:309--317.](https://pdfs.semanticscholar.org/0ebb/29615b1569e9ee219f536c9ad64ae5fce36d.pdf)
 
+-   Impact of student recognition on future performance where test score was used to allocate different forms of recognition.
+
 -   2 Elements. 1) Running or forcing variable 2) Threshold or cut-point.
 
 ## Education (and health) examples
