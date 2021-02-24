@@ -198,7 +198,7 @@ os4
 
 -   [Further reading](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2019_CUP.pdf) and [here](A%20Practical%20Introduction%20to%20Regression%20Discontinuity%20Designs:%20Foundations.)
 
-## Example
+## [Example](https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-01536-7.pdf)
 
 -   [Grammar schooled socio-economically advantaged in adulthood.](https://www.iser.essex.ac.uk/publications/working-papers/iser/2014-05)
 
@@ -216,8 +216,12 @@ os4
 
 ## Example
 
-![](fig2.png)
+![](fig3.png){width="840"}
+
+## Example
+
+![](fig2.png){width="840"}
 
 ## Thanks for listening
 
-Talk and code [here](https://github.com/frankpopham/rdtalk)
+Talk and code - <https://github.com/frankpopham/rdtalk>
